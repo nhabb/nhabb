@@ -5,7 +5,7 @@ I'm a passionate and curious student at 42, diving deep into the world of progra
 I'm aiming to become a skilled cybersecurity professional within the next three years. With a strong foundation in  programming and projects, I'm continuously building my skills to tackle the challenges of this ever-evolving field.
 
 🛠️ Skills & Tools
-Languages: C, Shell scripting
+Languages: C, Shell scripting,C++,Python,HTML/CSS,JavaScript
 Version Control: Git & GitHub
 OS: Linux
 🌱 Currently Learning
