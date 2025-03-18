@@ -6,6 +6,7 @@ I'm aiming to become a skilled cybersecurity professional within the next three 
 
 🛠️ Skills & Tools
 Languages: C, Shell scripting,C++,Python,HTML/CSS,JavaScript
+
 Version Control: Git & GitHub
 
 OS: Linux
